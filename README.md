@@ -1,1 +1,1 @@
-Next.js admin web workspace placeholder. Planned features: city/zone configuration, restaurant/rider approvals, orders, commissions, payments, payouts, analytics, audit log.
+Flutter customer app workspace placeholder. Bootstrap with `flutter create .` from this directory or use the command in docs/SETUP.md. Planned features: discovery, menu, cart, checkout, addresses, order tracking, OTP sign-in.
